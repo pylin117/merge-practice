@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: Microsoft JhengHei, MingLiU, 'Times New Roman', Times, serif;
+}
+
+li{
+    text-align: left;
+}
+
+.content{
+    font-size: 23px;
+}
